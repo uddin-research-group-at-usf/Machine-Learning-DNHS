@@ -6,3 +6,7 @@
 4. Code to perform analysis without some important features is in `Epic_ML_2-revision.ipyn`. This analysis was requested in manuscript revisions. 
 5. Run `Plot_Epic_ML_4.ipynb` for plotting.
 6. To check the demography of the samples use `EPIC Samples Demography.ipynb`
+
+
+### Additional code is available to impute the missing data. 
+1. Use `Imputation.R` to impute the missing data
